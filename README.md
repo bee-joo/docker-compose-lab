@@ -6,3 +6,6 @@
 2. Установка [Docker Compose](https://docs.docker.com/compose/install/)
 3. ```git clone https://github.com/bee-joo/docker-compose-lab.git```
 4. ```docker-compose up```
+
+## Итог
+Три одинаковых Express.js приложения, которые прослушиваются на разных портах и выводят сообщения
